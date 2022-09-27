@@ -1,0 +1,56 @@
+/* Min stylingside */
+body {
+  font-family: Garamond;
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 40px;
+  justify-content: end;
+}
+
+h2 {
+  color: darkblue;
+  font-size: 32px;
+}
+
+header {
+  max-width: 1024px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  background-color: #cccccc;
+  padding: 10px;
+
+}
+
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  border-top: 1px solid black;
+  padding-top: 10px;
+
+}
+
+#table {
+  color: brown;
+  border: 5px solid silver;
+  padding: 5px;
+  border-collapse: collapse;
+}
+
+#table td {
+  color: brown;
+  border: 1px solid silver;
+  padding: 5px;
+}
+
+#table th {
+  border: 1px solid red;
+  padding: 5px;
+}
+
+
