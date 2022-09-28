@@ -19,6 +19,7 @@ h2 {
 
 header {
   max-width: 1024px;
+  max-height: 300px;
   border: 1px solid black;
   margin-bottom: 10px;
   background-color: #cccccc;
